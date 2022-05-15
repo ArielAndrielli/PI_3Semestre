@@ -10,7 +10,7 @@ function Navbar(){
                     <a id="ajuste" href="https://github.com/VitorHenri/DsMovie" target="_blank">
                         <div className="dsmovie-contact-container">
                             <GitHubIcon></GitHubIcon>
-                            <p className="dsmovie-contact-link">/devsuperior</p>
+                            <p className="dsmovie-contact-link">/GitHub</p>
                         </div>
                     </a>
             </div>
