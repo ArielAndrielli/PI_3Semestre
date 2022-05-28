@@ -12,3 +12,8 @@
   <li>React Js</li>
   <li>Postgresql</li>
 </ul>
+<h2>Sobre a API</h2>
+<p>API desenvolvida usando Spring+Java, onde ela retorna um JSON dos filmes cadastrados em nossa base de dados usando o SGBD PostgreSql</p>
+<p>Foram Criados dois EndPoints para requisições:
+  <li>/Movies-> Retorna todos os filmes da base de dados. Exemplo: https://projectfatec-dsmovie.herokuapp.com/movies</li> 
+  <li>/Movies/Id -> Onde o ID pode ser um número de 1 a 30 para retornar um JSON com os dados de um único filme de acordo com seu ID. Exemplo: https://projectfatec-dsmovie.herokuapp.com/movies/1</li>
