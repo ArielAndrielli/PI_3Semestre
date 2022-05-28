@@ -17,3 +17,5 @@
 <p>Foram Criados dois EndPoints para requisições:
   <li>/Movies-> Retorna todos os filmes da base de dados. Exemplo: https://projectfatec-dsmovie.herokuapp.com/movies</li> 
   <li>/Movies/Id -> Onde o ID pode ser um número de 1 a 30 para retornar um JSON com os dados de um único filme de acordo com seu ID. Exemplo: https://projectfatec-dsmovie.herokuapp.com/movies/1</li>
+<h2>Prototipação</h2>
+<a href="https://www.figma.com/file/rO1cEhJDrIKsACr7jcnbpa/Projeto-integrador?node-id=16%3A3">Figma</a>
