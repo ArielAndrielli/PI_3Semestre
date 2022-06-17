@@ -19,3 +19,9 @@
   <li>/Movies/Id -> Onde o ID pode ser um número de 1 a 30 para retornar um JSON com os dados de um único filme de acordo com seu ID. Exemplo: https://projectfatec-dsmovie.herokuapp.com/movies/1</li>
 <h2>Prototipação</h2>
 <a href="https://www.figma.com/file/Hzcggsv0WLEWEzMOYC4SXH/DSMovie-V2?node-id=1%3A6">Figma</a>
+<h2>Testando o projeto</h2>
+<ul>
+  <li>Certifique-se de ter instalado o Node.js</li>
+  <li>Execute o comando: npm install --global yarn</li>
+  <li>Clone o projeto e entre na pasta 'FrontEnd'</li>
+  <li>Na pasta 'FrontEnd' no terminal execute 'yarn build' e logo em seguida 'yarn start'</li>
