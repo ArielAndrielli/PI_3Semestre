@@ -25,4 +25,5 @@
   <li>Execute o comando: npm install --global yarn</li>
   <li>Clone o projeto e entre na pasta 'FrontEnd'</li>
   <li>Na pasta 'FrontEnd' no terminal execute 'yarn build' e logo em seguida 'yarn start'</li>
+  <hr>
   <a href="#">Projeto construído com o auxílio da Semana Spring Boot do professor Nélio Alves</a>
